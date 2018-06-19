@@ -1,0 +1,21 @@
+{  
+  "name":"How To Be Awesome",
+  "children":[  
+    {  
+      "name":"Basics",
+      "children":[  
+        {  
+          "name":"SCM",
+          "children":[  
+            {  
+              "name":"Git"
+            },
+            {  
+              "name":"Others: Mercurial, SVN, CVS, etc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
